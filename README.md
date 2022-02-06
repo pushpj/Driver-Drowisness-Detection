@@ -1,0 +1,2 @@
+# Driver-Drowisness-Detection
+This driver drowsiness detection model is machine learning project focusing on solving the problem of number of road accidents caused by exhausted drivers. A camera on the dashboard in front of the driver will detect if the eyes of the driver are closed or semi-closed for more than a second, hence eliminating the difference of a blink, and sounding the alarm to alert the driver and urging to take a break for safe and happy travelling!
